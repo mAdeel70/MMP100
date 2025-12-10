@@ -1,0 +1,27 @@
+img, video{
+	max-width: 100%;
+	height: auto;
+}
+figure{
+    margin: 0;
+}
+p {
+    color: #2255ff;
+}
+
+body{
+  background-color: 
+#ccffee;
+}
+
+/* Text Style */
+html{
+  font-size: 100%;
+}
+body{
+  font-family: Arial, sans-serif;
+}
+
+h1{
+  font-size: 3rem;
+}
